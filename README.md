@@ -7,7 +7,7 @@ By clicking on book user is directed to preview web adress. List of book is retu
 - Custom adapter
 - Http request
 - Http response
-- Parsing data
+- Parsing JSON
 - AsyncTask (background thread for API call)
 
 
